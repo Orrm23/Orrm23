@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-## 👨‍💻 Burhan Yousuf<br><br>DevSecOps Platform Engineer specializing in secure CI/CD, backend systems, and AI-driven automation with 4+ years of experience in designing, implementing, and securing cloud-native CI/CD pipelines and Kubernetes platforms. Hands-on expertise in Static Application Security Testing (SAST) and Dynamic Application Security Testing (DAST), integrating security scans into CI/CD pipelines to enable secure software delivery. Strong experience with Docker for containerization, Kubernetes for orchestration, and Argo CD for GitOps-based continuous deployment.
+## 👨‍💻 Burhan Yousuf<br><br>DevSecOps Platform Engineer specializing in secure CI/CD, backend systems, and AI-driven .
 
 Proficient in Infrastructure as Code using Terraform, cloud platforms including Azure and AWS, and automation using Python. Experienced in building scalable deployment pipelines with Azure DevOps and GitHub Actions, implementing container image scanning, vulnerability management, secrets detection, and policy enforcement. Skilled in monitoring and troubleshooting Kubernetes workloads, optimizing deployment strategies, and collaborating with development and security teams to deliver reliable, secure, and highly available applications.
 .<br><br>- 🔧 GitHub Actions, Jenkins, Docker  <br>- 🔐 Trivy, Snyk, DevSecOps pipelines  <br>- 🤖 OpenAI, LangChain integrations  <br>- 📡 IoT systems (STM32, Raspberry Pi)<br><br>📈 30% faster deployments | 60% more reliable systems | 70% less manual effort  <br><br>Currently building CPEED @ MotionPro Dynamics.
