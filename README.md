@@ -3,7 +3,7 @@
 ## 👨‍💻 Burhan Yousuf<br><br>DevSecOps Platform Engineer specializing in secure CI/CD, backend systems, and AI-driven .
 
 Proficient in Infrastructure as Code using Terraform, cloud platforms including Azure and AWS, and automation using Python. Experienced in building scalable deployment pipelines with Azure DevOps and GitHub Actions, implementing container image scanning, vulnerability management, secrets detection, and policy enforcement. Skilled in monitoring and troubleshooting Kubernetes workloads, optimizing deployment strategies, and collaborating with development and security teams to deliver reliable, secure, and highly available applications.
-.<br><br>- 🔧 GitHub Actions, Jenkins, Docker  <br>- 🔐 Trivy, Snyk, DevSecOps pipelines  <br>- 🤖 OpenAI, LangChain integrations  <br>- 📡 IoT systems (STM32, Raspberry Pi)<br><br>📈 30% faster deployments | 60% more reliable systems | 70% less manual effort  <br><br>Currently building CPEED @ MotionPro Dynamics.
+.<br><br>- 🔧 GitHub Actions, Jenkins, Docker, ADO  <br>- 🔐 Trivy, Snyk, DevSecOps pipelines  <br>- 🤖 OpenAI, LangChain integrations  <br>- 📡 IoT systems (STM32, Raspberry Pi)<br><br>📈 30% faster deployments | 60% more reliable systems | 70% less manual effort  <br><br>Currently building CPEED @ MotionPro Dynamics.
 
 
 ## 🌐 Socials:
